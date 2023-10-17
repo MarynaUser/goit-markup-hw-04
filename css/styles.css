@@ -157,6 +157,10 @@ body {
 
 }
 
+.hero {
+background-image: url();
+}
+
 .section-one {
     padding: 188px 0;
 
