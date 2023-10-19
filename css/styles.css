@@ -302,6 +302,8 @@ body {
 
 .team-soc-icons {
     fill: #F4F4FD;
+    width: 16px;
+    height: 16px;
 }
 
 .team-soc-items:not( :last-child) {
@@ -313,7 +315,7 @@ body {
     height: 100%;
     background-color: #4D5AE5;
     display: flex;
-    justify-self: center;
+    justify-content: center;
     align-items: center;
     border-radius: 50%;
     
@@ -488,6 +490,13 @@ footer {
 
 .footer-soc-items:not( :last-child) {
     margin-right: 16px;
+
+}
+
+.footer-soc-icons {
+    fill: #F4F4FD;
+    width: 24px;
+    height: 24px;
 
 }
 
